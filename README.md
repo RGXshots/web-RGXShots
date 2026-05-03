@@ -1,13 +1,25 @@
-# GitHub Codespaces ♥️ Next.js
+# 📸 RGX Shots | Portfolio Photography & Code
 
-Welcome to your shiny new Codespace running Next.js! We've got everything fired up and running for you to explore Next.js.
+Bienvenido a **RGX Shots**, mi rincón personal. Este proyecto no es solo una galería, es un experimento visual construido con **Next.js**.
 
-You've got a blank canvas to work on from a git perspective as well. There's a single initial commit with the what you're seeing right now - where you go from here is up to you!
+## 💻 Cómo ejecutarlo
 
-Everything you do here is contained within this one codespace. There is no repository on GitHub yet. If and when you’re ready you can click "Publish Branch" and we’ll create your repository and push up your project. If you were just exploring then and have no further need for this code then you can simply delete your codespace and it's gone forever.
+1.  **Instalar dependencias:**
+    ```bash
+    npm install
+    ```
+2.  **Modo desarrollo:**
+    ```bash
+    npm run dev
+    ```
+3.  **Ver en el navegador:**
+    Abre `http://localhost:3000`
 
-To run this application:
+---
 
-```
-npm run dev
-```
+## 📩 Contacto
+
+¿Tienes un proyecto fotográfico o de desarrollo en mente? ¡Hablemos!
+
+* **Email:** [rgxshots@gmail.com](mailto:rgxshots@gmail.com)
+* **GitHub:** [Mi Perfil](https://github.com/RGXshots)
